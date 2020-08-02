@@ -1,0 +1,228 @@
+*{
+    background-color: white;
+}
+
+.logo{
+
+    height: 70px;
+    width: 70px;
+    margin-left: 50px;
+    margin-top: -20px;
+
+
+}
+.d1{
+     
+  
+    height: 70px;
+    margin-top: -50px;
+
+   
+  
+    margin-left: 360px;
+ 
+    font-size: small;
+    font-size: 14px;
+    font-weight: bold;
+
+
+
+}
+.d2{
+     
+  
+    height: 70px;
+    margin-top: -83px;
+   
+  
+    margin-left: 530px;
+    font-size: small;
+    font-size: 14px;
+
+ 
+    font-weight: bold;
+
+
+
+}
+.d3{
+     
+  
+    height: 70px;
+    margin-top: -82px;
+   
+  
+    margin-left: 725px;
+    font-size: small;
+    font-size: 14px;
+
+  
+    font-weight: bold;
+
+
+
+}
+.d4{
+     
+  
+    height: 70px;
+    margin-top: -83px;
+   
+  
+    margin-left: 890px;
+    font-size: small;
+    font-size: 14px;
+
+   
+    font-weight: bold;
+
+
+
+}
+.d5{
+     
+  
+    height: 70px;
+    margin-top: -84px;
+   
+  
+    margin-left: 1050px;
+    font-size: small;
+    font-size: 14px;
+
+   
+    font-weight: bold;
+
+
+
+}
+.searchlogo{
+
+    margin-left: 1325px;
+    margin-top: -85px;
+}
+
+.d6{
+
+    margin-left: 1400px;
+    font-size: 15px;
+    margin-top: -52px;
+}
+.mid{
+
+    margin-top: 30px;
+    margin-left: 90px;
+}
+.mid2{
+
+    margin-top: -420px;
+    margin-left: 870px;
+    width: 450px;
+    font-size: large;
+    
+
+
+}
+#but1{
+    border-radius: 20px;
+    background-color: rgb(30, 30, 255);
+    color: white;
+    width: 90px;
+    padding: 5px;
+    border-width: 1px;
+    text-align: center;
+    border-color: white;
+}
+.box1 {
+
+    margin-top: 220px;
+    height: 430px;
+    width: 430px;
+    background-color: burlywood;
+    font-size: 30px;
+    margin-left: 50px;
+    padding-top: 30px;
+    padding-left: 20px;
+
+
+}
+.box1 h1{
+
+    
+    background-color: burlywood;
+    font-size: 40px;
+    
+   
+}
+.box1 p{
+
+    background-color: burlywood;
+    
+  
+}
+.box2 {
+
+    margin-top: -460px;
+    height: 430px;
+    width: 430px;
+    background-color: lightgray;
+    font-size: 30px;
+    margin-left: 550px;
+    padding-top: 30px;
+    padding-left: 20px;
+    
+
+}
+.box2 h1{
+    background-color: lightgray;
+    font-size: 30px;
+
+}
+.box2 p{
+    background-color: lightgray;
+    padding-top: 100px;
+  
+
+}
+.box3 {
+
+    margin-top: -460px;
+    height: 430px;
+    width: 430px;
+    background-color: red;
+    font-size: 30px;
+    margin-left: 1050px;
+    padding-top: 30px;
+    padding-left: 20px;
+    
+
+    
+}
+.box3 h1
+{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+}
+.box3 p{
+    background-color: red;
+    color: white;
+
+}
+.bot {
+
+    
+    background-color: lightgray;
+    margin-top: 100px;
+    padding-top: 30px;
+    padding-bottom: 300px;
+    padding-left: 30px;
+}
+.bot h4{
+    background-color: lightgray;
+    margin top: -300px
+    ;
+}
+.bot h3{
+    background-color: lightgray;
+}
